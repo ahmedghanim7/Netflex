@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 // import {Link} from 'react-router-dom';
-import navImage from '../../assist/netflix-logo.png'
 import './Nav.css'
 
 const Nav = () => {
